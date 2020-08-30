@@ -123,7 +123,7 @@ In looking at the resulting table, you can see the results are ordered by employ
 
 ![Mentorship Eligibility](https://github.com/MaureenFromuth/Pewlett-Hackard-Analysis/blob/master/mentorship_eligibility.png)
 
-*Analysis*
+*Analysis: Mentorship*
 - The number of employees eligible for mentorship is significantly smaller than that needed to replace the retirement-eligible employee community (1,548 to 90,389).  PH could expand the age range for mentorship eligible candidates to increase the candidate pool.
 
 Of note, additional analysis could be done on the exact count per title similar to the table we created in question 1.  In doing so, we can identify how well the percentage break down of mentorship eligible employees matches the retirement-eligible employee titles.  
